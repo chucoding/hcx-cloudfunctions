@@ -20,4 +20,4 @@ Cloud Functions (ncloud serverless service) SDK that calls inference results fro
    ```
    zip -r {YOUR_FILE_NAME}.zip requirements.txt __main__.py
    ```
-4. **upload zip file to ncloud cloud functions**
+4. **upload zip file to ncloud cloud functions and happy hacking😀**
